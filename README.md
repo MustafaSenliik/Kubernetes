@@ -16,3 +16,4 @@ Bu repo, Kubernetes temelinden ileri seviyeye kadar çeşitli konuları kapsayan
 ├── rbac/               # Role, ClusterRole ve RoleBinding dosyaları
 ├── serviceaccount/     # ServiceAccount kullanımı ve binding örnekleri
 ├── storageclass/       # StorageClass tanımı ve dinamik volume provisioning
+├── Kapsamlı Notlarım/  # Temelden ileri düzeye çıkarılan notlar
