@@ -7,7 +7,7 @@ Bu repo, Kubernetes temelinden ileri seviyeye kadar çeşitli konuları kapsayan
 ## 📂 Klasör Yapısı
 
 ```bash
-.
+
 ├── initialize/         # Namespace, deployment ve configmap gibi temel nesneler
 ├── kube-service/       # ClusterIP, NodePort, LoadBalancer service örnekleri
 ├── kubedeneme/         # Deneme amaçlı manifest dosyaları
